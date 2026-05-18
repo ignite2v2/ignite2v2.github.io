@@ -1,0 +1,189 @@
+{
+  "pointsTable": [50, 45, 41, 37, 34, 31, 28, 25, 22, 19, 15, 10],
+  "races": [
+    { "raceId": "race1", "label": "Seed 1" },
+    { "raceId": "race2", "label": "Seed 2" },
+    { "raceId": "race3", "label": "Seed 3" },
+    { "raceId": "race4", "label": "Seed 4" },
+    { "raceId": "race5", "label": "Seed 5" },
+    { "raceId": "race6", "label": "Seed 6" },
+    { "raceId": "race7", "label": "Seed 7" },
+    { "raceId": "race8", "label": "Seed 8" }
+  ],
+  "teams": [
+    {
+      "id": "whimsical",
+      "teamName": "The Whimsical Wandetta",
+      "player1": { "name": "Wander", "twitch": "wander652" },
+      "player2": { "name": "Nessonetta", "twitch": "nessonetta" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5855, "player1Kills": 27, "player1Deaths": 4, "player2Seconds": 5987, "player2Kills": 18, "player2Deaths": 2 },
+        { "raceId": "race2", "player1Seconds": 5636, "player1Kills": 19, "player1Deaths": 8, "player2Seconds": 6304, "player2Kills": 17, "player2Deaths": 9 },
+        { "raceId": "race3", "player1Seconds": 6067, "player1Kills": 18, "player1Deaths": 12, "player2Seconds": 6132, "player2Kills": 19, "player2Deaths": 6 },
+        { "raceId": "race4", "player1Seconds": 7886, "player1Kills": 18, "player1Deaths": 13, "player2Seconds": 8166, "player2Kills": 23, "player2Deaths": 2 },
+        { "raceId": "race5", "player1Seconds": 5432, "player1Kills": 20, "player1Deaths": 6, "player2Seconds": 5801, "player2Kills": 18, "player2Deaths": 6 },
+        { "raceId": "race6", "player1Seconds": 6723, "player1Kills": 22, "player1Deaths": 7, "player2Seconds": 7277, "player2Kills": 18, "player2Deaths": 12 },
+        { "raceId": "race7", "player1Seconds": 6080, "player1Kills": 14, "player1Deaths": 9, "player2Seconds": 7094, "player2Kills": 7, "player2Deaths": 15 },
+        { "raceId": "race8", "player1Seconds": 4830, "player1Kills": 147, "player1Deaths": 11, "player2Seconds": 5180, "player2Kills": 112, "player2Deaths": 10 }
+      ]
+    },
+    {
+      "id": "massivehog",
+      "teamName": "Massive Hogs",
+      "player1": { "name": "Rambler", "twitch": "rambler_ing" },
+      "player2": { "name": "Nartock", "twitch": "nartock_" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5620, "player1Kills": 18, "player1Deaths": 5, "player2Seconds": 5910, "player2Kills": 29, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 3910, "player1Kills": 12, "player1Deaths": 4, "player2Seconds": 3369, "player2Kills": 13, "player2Deaths": 1 },
+        { "raceId": "race3", "player1Seconds": 4737, "player1Kills": 20, "player1Deaths": 0, "player2Seconds": 4348, "player2Kills": 18, "player2Deaths": 4 },
+        { "raceId": "race4", "player1Seconds": 4912, "player1Kills": 20, "player1Deaths": 5, "player2Seconds": 4784, "player2Kills": 20, "player2Deaths": 6 },
+        { "raceId": "race5", "player1Seconds": 5222, "player1Kills": 19, "player1Deaths": 4, "player2Seconds": 5066, "player2Kills": 21, "player2Deaths": 6 },
+        { "raceId": "race6", "player1Seconds": 5550, "player1Kills": 21, "player1Deaths": 6, "player2Seconds": 5563, "player2Kills": 18, "player2Deaths": 8 },
+        { "raceId": "race7", "player1Seconds": 6813, "player1Kills": 14, "player1Deaths": 21, "player2Seconds": 6487, "player2Kills": 14, "player2Deaths": 14 },
+        { "raceId": "race8", "player1Seconds": 3760, "player1Kills": 254, "player1Deaths": 9, "player2Seconds": 4010, "player2Kills": 229, "player2Deaths": 14 }
+      ]
+    },
+    {
+      "id": "unlucky",
+      "teamName": "Unlucky & Unluckier",
+      "player1": { "name": "Helios", "twitch": "lazyhelios" },
+      "player2": { "name": "HooZher", "twitch": "hoozher" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5427, "player1Kills": 25, "player1Deaths": 5, "player2Seconds": 5407, "player2Kills": 21, "player2Deaths": 3 },
+        { "raceId": "race2", "player1Seconds": 3814, "player1Kills": 14, "player1Deaths": 2, "player2Seconds": 4079, "player2Kills": 10, "player2Deaths": 3 },
+        { "raceId": "race3", "player1Seconds": 4819, "player1Kills": 17, "player1Deaths": 6, "player2Seconds": 4743, "player2Kills": 19, "player2Deaths": 3 },
+        { "raceId": "race4", "player1Seconds": 4797, "player1Kills": 20, "player1Deaths": 2, "player2Seconds": 4340, "player2Kills": 18, "player2Deaths": 2 },
+        { "raceId": "race5", "player1Seconds": 4352, "player1Kills": 20, "player1Deaths": 2, "player2Seconds": 4309, "player2Kills": 19, "player2Deaths": 0 },
+        { "raceId": "race6", "player1Seconds": 5103, "player1Kills": 19, "player1Deaths": 7, "player2Seconds": 5315, "player2Kills": 20, "player2Deaths": 5 },
+        { "raceId": "race7", "player1Seconds": 4032, "player1Kills": 8, "player1Deaths": 7, "player2Seconds": 4655, "player2Kills": 10, "player2Deaths": 7 },
+        { "raceId": "race8", "player1Seconds": 4430, "player1Kills": 187, "player1Deaths": 6, "player2Seconds": 3510, "player2Kills": 279, "player2Deaths": 7 }
+      ]
+    },
+    {
+      "id": "bofa",
+      "teamName": "The Second Coming of Bofa D's",
+      "player1": { "name": "Doitz", "twitch": "baseserpent" },
+      "player2": { "name": "Dino", "twitch": "dinossb" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5945, "player1Kills": 24, "player1Deaths": 13, "player2Seconds": 5615, "player2Kills": 21, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 4891, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 4950, "player2Kills": 16, "player2Deaths": 9 },
+        { "raceId": "race3", "player1Seconds": 5130, "player1Kills": 19, "player1Deaths": 9, "player2Seconds": 4805, "player2Kills": 18, "player2Deaths": 8 },
+        { "raceId": "race4", "player1Seconds": 5112, "player1Kills": 20, "player1Deaths": 5, "player2Seconds": 5388, "player2Kills": 20, "player2Deaths": 9 },
+        { "raceId": "race5", "player1Seconds": 5224, "player1Kills": 22, "player1Deaths": 3, "player2Seconds": 5125, "player2Kills": 19, "player2Deaths": 5 },
+        { "raceId": "race6", "player1Seconds": 6044, "player1Kills": 22, "player1Deaths": 7, "player2Seconds": 5607, "player2Kills": 18, "player2Deaths": 14 },
+        { "raceId": "race7", "player1Seconds": 5412, "player1Kills": 9, "player1Deaths": 13, "player2Seconds": 5610, "player2Kills": 10, "player2Deaths": 21 },
+        { "raceId": "race8", "player1Seconds": 4150, "player1Kills": 215, "player1Deaths": 5, "player2Seconds": 3650, "player2Kills": 265, "player2Deaths": 5 }
+      ]
+    },
+    {
+      "id": "chair",
+      "teamName": "Team Chair",
+      "player1": { "name": "Harv", "twitch": "harvsouls" },
+      "player2": { "name": "Thomas", "twitch": "pluryl" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5419, "player1Kills": 20, "player1Deaths": 3, "player2Seconds": 5731, "player2Kills": 26, "player2Deaths": 2 },
+        { "raceId": "race2", "player1Seconds": 5811, "player1Kills": 16, "player1Deaths": 10, "player2Seconds": 5735, "player2Kills": 21, "player2Deaths": 9 },
+        { "raceId": "race3", "player1Seconds": 4912, "player1Kills": 16, "player1Deaths": 5, "player2Seconds": 4605, "player2Kills": 19, "player2Deaths": 7 },
+        { "raceId": "race4", "player1Seconds": 5098, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 4749, "player2Kills": 23, "player2Deaths": 0 },
+        { "raceId": "race5", "player1Seconds": 6572, "player1Kills": 17, "player1Deaths": 14, "player2Seconds": 5969, "player2Kills": 23, "player2Deaths": 6 },
+        { "raceId": "race6", "player1Seconds": 6040, "player1Kills": 16, "player1Deaths": 7, "player2Seconds": 5911, "player2Kills": 24, "player2Deaths": 1 }
+      ]
+    },
+    {
+      "id": "breakpoint",
+      "teamName": "Breaking Point",
+      "player1": { "name": "beagleplays", "twitch": "beagleplays" },
+      "player2": { "name": "itsbackx", "twitch": "itsbackx" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 9635, "player1Kills": 20, "player1Deaths": 23, "player2Seconds": 9650, "player2Kills": 28, "player2Deaths": 20 },
+        { "raceId": "race2", "player1Seconds": 6510, "player1Kills": 15, "player1Deaths": 11, "player2Seconds": 6067, "player2Kills": 16, "player2Deaths": 9 },
+        { "raceId": "race3", "player1Seconds": 7593, "player1Kills": 19, "player1Deaths": 8, "player2Seconds": 7279, "player2Kills": 20, "player2Deaths": 11 },
+        { "raceId": "race4", "player1Seconds": 8640, "player1Kills": 19, "player1Deaths": 16, "player2Seconds": 7344, "player2Kills": 24, "player2Deaths": 7, "bonusPoints": 2 },
+        { "raceId": "race5", "player1Seconds": 10808, "player1Kills": 19, "player1Deaths": 42, "player2Seconds": 10918, "player2Kills": 25, "player2Deaths": 25 },
+        { "raceId": "race6", "player1Seconds": 10140, "player1Kills": 27, "player1Deaths": 16, "player2Seconds": 11100, "player2Kills": 16, "player2Deaths": 45 },
+        { "raceId": "race7", "player1Seconds": 12660, "player1Kills": 11, "player1Deaths": 60, "player2Seconds": 13814, "player2Kills": 13, "player2Deaths": 45 },
+        { "raceId": "race8", "player1Seconds": 5660, "player1Kills": 64, "player1Deaths": 12, "player2Seconds": 5490, "player2Kills": 81, "player2Deaths": 6 }
+      ]
+    },
+    {
+      "id": "jump",
+      "teamName": "Jimpy Jumpers",
+      "player1": { "name": "Strump", "twitch": "strump1" },
+      "player2": { "name": "Jibbe", "twitch": "jibbebot" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5777, "player1Kills": 24, "player1Deaths": 1, "player2Seconds": 5780, "player2Kills": 21, "player2Deaths": 7 },
+        { "raceId": "race2", "player1Seconds": 3955, "player1Kills": 10, "player1Deaths": 5, "player2Seconds": 3695, "player2Kills": 12, "player2Deaths": 7 },
+        { "raceId": "race3", "player1Seconds": 4228, "player1Kills": 17, "player1Deaths": 6, "player2Seconds": 5017, "player2Kills": 18, "player2Deaths": 8 },
+        { "raceId": "race4", "player1Seconds": 4010, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 5155, "player2Kills": 22, "player2Deaths": 4 },
+        { "raceId": "race5", "player1Seconds": 4625, "player1Kills": 19, "player1Deaths": 5, "player2Seconds": 5686, "player2Kills": 20, "player2Deaths": 4 },
+        { "raceId": "race6", "player1Seconds": 6630, "player1Kills": 21, "player1Deaths": 14, "player2Seconds": 6244, "player2Kills": 18, "player2Deaths": 13 },
+        { "raceId": "race7", "player1Seconds": 4838, "player1Kills": 6, "player1Deaths": 5, "player2Seconds": 3853, "player2Kills": 8, "player2Deaths": 6 },
+        { "raceId": "race8", "player1Seconds": 3730, "player1Kills": 257, "player1Deaths": 6, "player2Seconds": 4180, "player2Kills": 212, "player2Deaths": 11 }
+      ]
+    },
+    {
+      "id": "summon",
+      "teamName": "Summoning Sigmas",
+      "player1": { "name": "x1leff", "twitch": "x1leff" },
+      "player2": { "name": "Wadiks", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 },
+        { "raceId": "race2", "player1Seconds": 4882, "player1Kills": 11, "player1Deaths": 17,  "player2Seconds": 6833, "player2Kills": 9, "player2Deaths": 33 },
+        { "raceId": "race3", "player1Seconds": 8765, "player1Kills": 16, "player1Deaths": 18,  "player2Seconds": 8224, "player2Kills": 26, "player2Deaths": 16 },
+        { "raceId": "race4", "player1Seconds": 7973, "player1Kills": 30, "player1Deaths": 17,  "player2Seconds": 8901, "player2Kills": 15, "player2Deaths": 37 },
+        { "raceId": "race5", "player1Seconds": 8162, "player1Kills": 25, "player1Deaths": 17,  "player2Seconds": 8877, "player2Kills": 17, "player2Deaths": 37 },
+        { "raceId": "race6", "player1Seconds": 11293, "player1Kills": 20, "player1Deaths": 41,  "player2Seconds": 11767, "player2Kills": 19, "player2Deaths": 67 },
+        { "raceId": "race7", "player1Seconds": 6784, "player1Kills": 10, "player1Deaths": 26,  "player2Seconds": 7531, "player2Kills": 12, "player2Deaths": 30 },
+        { "raceId": "race8", "player1Seconds": 4500, "player1Kills": 180, "player1Deaths": 12,  "player2Seconds": 4870, "player2Kills": 143, "player2Deaths": 18 }
+      ]
+    },
+    {
+      "id": "elysee",
+      "teamName": "Élysée Treatyy",
+      "player1": { "name": "Mixed", "twitch": "themixed_" },
+      "player2": { "name": "Jeff", "twitch": "jeffqed" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 6675, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 6370, "player2Kills": 20, "player2Deaths": 15, "bonusPoints": 1 },
+        { "raceId": "race3", "player1Seconds": 5343, "player1Kills": 16, "player1Deaths": 0, "player2Seconds": 5316, "player2Kills": 21, "player2Deaths": 4 },
+        { "raceId": "race4", "player1Seconds": 5800, "player1Kills": 17, "player1Deaths": 5, "player2Seconds": 4975, "player2Kills": 20, "player2Deaths": 2 },
+        { "raceId": "race5", "player1Seconds": 6769, "player1Kills": 17, "player1Deaths": 8, "player2Seconds": 6962, "player2Kills": 21, "player2Deaths": 11 },
+        { "raceId": "race6", "player1Seconds": 7118, "player1Kills": 18, "player1Deaths": 12, "player2Seconds": 6758, "player2Kills": 21, "player2Deaths": 9 },
+        { "raceId": "race7", "player1Seconds": 6237, "player1Kills": 10, "player1Deaths": 10, "player2Seconds": 6492, "player2Kills": 15, "player2Deaths": 13 },
+        { "raceId": "race8", "player1Seconds": 4390, "player1Kills": 191, "player1Deaths": 7, "player2Seconds": 4560, "player2Kills": 174, "player2Deaths": 8 }
+      ]
+    },
+    {
+      "id": "dltrry",
+      "teamName": "dltrry",
+      "player1": { "name": "Vord_SR", "twitch": "vord_sr" },
+      "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 7262, "player1Kills": 29, "player1Deaths": 6, "player2Seconds": 7888, "player2Kills": 19, "player2Deaths": 19 },
+        { "raceId": "race2", "player1Seconds": 4145, "player1Kills": 12, "player1Deaths": 8, "player2Seconds": 4445, "player2Kills": 13, "player2Deaths": 4 },
+        { "raceId": "race3", "player1Seconds": 5532, "player1Kills": 17, "player1Deaths": 12, "player2Seconds": 5573, "player2Kills": 20, "player2Deaths": 8 },
+        { "raceId": "race4", "player1Seconds": 5567, "player1Kills": 19, "player1Deaths": 6, "player2Seconds": 5323, "player2Kills": 18, "player2Deaths": 3 },
+        { "raceId": "race5", "player1Seconds": 6675, "player1Kills": 20, "player1Deaths": 20, "player2Seconds": 6981, "player2Kills": 20, "player2Deaths": 13 },
+        { "raceId": "race6", "player1Seconds": 7394, "player1Kills": 19, "player1Deaths": 11, "player2Seconds": 7056, "player2Kills": 22, "player2Deaths": 11 },
+        { "raceId": "race7", "player1Seconds": 6352, "player1Kills": 7, "player1Deaths": 23, "player2Seconds": 7096, "player2Kills": 9, "player2Deaths": 18 },
+        { "raceId": "race8", "player1Seconds": 3770, "player1Kills": 253, "player1Deaths": 10, "player2Seconds": 4880, "player2Kills": 142, "player2Deaths": 7 }
+      ]
+    },
+    {
+      "id": "forsure",
+      "teamName": "For Sure",
+      "player1": { "name": "Typin", "twitch": "typin__" },
+      "player2": { "name": "Kiofto", "twitch": "kiofto" },
+      "races": [
+          { "raceId": "race1", "player1Seconds": 7341, "player1Kills": 19, "player1Deaths": 12, "player2Seconds": 7923, "player2Kills": 25, "player2Deaths": 6 },
+          { "raceId": "race2", "player1Seconds": 7907, "player1Kills": 23, "player1Deaths": 15, "player2Seconds": 8026, "player2Kills": 18, "player2Deaths": 14, "bonusPoints": 1 },
+          { "raceId": "race3", "player1Seconds": 5678, "player1Kills": 16, "player1Deaths": 8, "player2Seconds": 5354, "player2Kills": 20, "player2Deaths": 4 },
+          { "raceId": "race4", "player1Seconds": 5510, "player1Kills": 19, "player1Deaths": 5, "player2Seconds": 5589, "player2Kills": 21, "player2Deaths": 1 },
+          { "raceId": "race5", "player1Seconds": 5651, "player1Kills": 20, "player1Deaths": 15, "player2Seconds": 5979, "player2Kills": 8, "player2Deaths": 9 },
+          { "raceId": "race6", "player1Seconds": 7973, "player1Kills": 19, "player1Deaths": 23, "player2Seconds": 7165, "player2Kills": 20, "player2Deaths": 8 },
+          { "raceId": "race7", "player1Seconds": 10806, "player1Kills": 16, "player1Deaths": 56, "player2Seconds": 9665, "player2Kills": 23, "player2Deaths": 15 },
+          { "raceId": "race8", "player1Seconds": 5030, "player1Kills": 127, "player1Deaths": 12, "player2Seconds": 4460, "player2Kills": 184, "player2Deaths": 9 }
+      ]
+    }
+  ]
+}

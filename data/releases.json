@@ -1,0 +1,192 @@
+{
+  "timezone": "America/Chicago",
+  "weeks": [
+    {
+      "week": 1,
+      "seeds": [
+        {
+          "id": "w1s1",
+          "title": "Seed 1 - Lay of The Land",
+          "version": "v1.0",
+          "descriptionText": "17 total Unique Shards Needed to finish the race\n7 needed as an individual to burn the Sealing Tree\n\nDLC Gaols, Catacombs, Caves, and Demi-Human Queen Marigga are now apart of the Checks Included\n\nOf the New Included Checks: only Marigga can drop Scadutree Fragments\n\nCustom Starting Classes with Unique Weapons, you are allowed to switch if something catches your eye while looting the seed\n\nAs a Reminder Messmer must be killed by at Least one player on a team\n\nO Mother Checker was used Meaning the Emote 'O Mother' cannot be at Jori, Midra, PK, Sennsesax, Bayle, Messmer, Gauis",
+          "releases": {
+            "descriptionAt": "2026-02-04T15:00:00-06:00",
+            "downloadAt": "2026-02-04T15:00:00-06:00",
+            "forceDescription": true,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-10T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed1"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w1s2",
+          "title": "Seed 2 - Melatonin",
+          "version": "v1.0",
+          "descriptionText": "You and your teammate may have taken some Off-Brand Melatonin.\nYour bodies may reject it and who knows what the consequences will be.\n\nOne of the Consequences for us is that I can't remember if I ran the O'Mother Checker or not.\n\nDon't Forget about Messmer, someone will have to deal with whatever is there.\nAnd we're Back to the Basic Checks\n\nThe Goal Remains the same, Both Players must Defeat the Consort Replacement.",
+          "releases": {
+            "descriptionAt": "2026-02-05T15:00:00-03:00",
+            "downloadAt": "2026-02-05T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-10T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed2"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
+    },
+    {
+      "week": 2,
+      "seeds": [
+        {
+          "id": "w2s3",
+          "title": "Seed 3 - Third Wheel",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Messmer Kindling Shards are required to defeat the PCR replacement and finish the race.\n\nThere is no shard requirement for Enir Elim, but you can't burn the Sealing Tree.\n\nTo enter Enir Elim, each teammate must blow one of the two horns (Finger Ruins of Rhia or Dheo) — you cannot use the same horn as your partner. Blowing a Horn will automatically Teleport you to Enir Elim, but you must wait for the Item Drop. You can blow the horn at anytime to enter. Be safe and grab a Grace in Enir Elim, who know what lies ahead.\n\nThis is a magic-focused seed:\n• You may only use Incantations or Sorceries\n• Choose only from the first five starting classes\n• One player must specialize in Incants, the other in Sorceries\n\nYou are given Starlight Shards which can be traded with Corhyn and the Twin Maiden Husk for special items.\n\nWeapons are NOT allowed. Use only the spells provided, summons, and Spirit Ashes. Teammates may not use the same Spirit Ashes.\n\nThe O Mother Checker was used for this seed — whether the result is valid or cursed is up to you to discover.\nMessmer IS NOT required this Seed.\n\nMausoleums do not allow summons. Plan accordingly.\nRevered Spirit Ashes are not vanilla anymore. Instead they can only be found in the avaliable 35 Key Item Checks.\n\nAll Incants, Sorceries, Seals, and Staves have 0 requirements.\n\nMore information about the classes can be found on the Github when released.\n\nGood luck.",
+          "releases": {
+            "descriptionAt": "2026-02-11T15:00:00-03:00",
+            "downloadAt": "2026-02-11T15:00:00-03:00",
+            "forceDescription": true,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-17T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed3"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w2s4",
+          "title": "Seed 4 - Eastern Cerulean Route",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Shards are required to defeat the Consort replacement.\n7 Shards are needed individually to burn the Sealing Tree.\n\nMessmer must be killed by at least one player on the team.\nWe called in a favor to give you +24/+9 Starting Weapons\n\nSeek not the place you swore you knew,\nIts echo now is laggin’.\nSlumber awakens the Dragon and Madness abandons the eye,\nTheir hidden paths shift dusk to dawn beneath a broken sky.",
+          "releases": {
+            "descriptionAt": "2026-02-12T15:00:00-03:00",
+            "downloadAt": "2026-02-12T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-17T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed4"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
+    },
+    {
+      "week": 3,
+      "seeds": [
+        {
+          "id": "w3s5",
+          "title": "Seed 5 - Absoloot Relay",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Shards are required to defeat the Consort replacement.\n7 Shards are needed individually to burn the Sealing Tree.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nO Mother Checker was used, meaning the O Mother emote cannot appear at:\n• Messmer\n• Gauis\n• Jori\n• Midra\n• PK\n• Sennsesax\n• Bayle\n\nTorrent is allowed in more places than not — make sure to use your trusty steed.\n\nSome Major Rules are broken in this seed:\nYou ARE allowed to start the same class and use the same weapons.\n\nAuto-Equip is enabled. You may pick up any items and freely remove any weapons, armor, or talismans that are automatically equipped.\n\nYour FIRST boss kill must be done using the Lordsworn Greatsword, which is fully upgraded.\n\nBosses now define your loadout:\n• Every boss drops a weapon that matches them (ex: Fire Giant → Giant’s Red Braid, Dragonkin → Dragonscale Blade)\n• You may ONLY use weapons dropped directly from the boss you last killed\n• Finding the same weapon in the overworld does NOT count\n• All Weapons Dropped by Bosses will be Upgraded to the Max and Have NO REQUIREMENTS\n\nWeapon progression rules:\n• If you pick up another weapon between bosses, you MUST swap back to your last boss weapon before the next boss fight\n• After killing a boss, you must use the newly dropped boss weapon until the next boss drops a replacement.",
+          "releases": {
+            "descriptionAt": "2026-02-18T15:00:00-03:00",
+            "downloadAt": "2026-02-18T15:00:00-03:00",
+            "forceDescription": true,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-24T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed5"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w3s6",
+          "title": "Seed 6 - A New Frontier",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Shards required to finish the race to defeat the Consort replacement.\n7 Shards are required individually to burn the Sealing Tree.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nO Mother Checker was used, meaning the O Mother emote cannot be at:\n• Messmer\n• Gauis\n• Jori\n• Midra\n• PK\n• Senessax\n• Bayle\n\nThere are two of me.\nOne was not recognized.\nThe other marks an end.\nConfusion has been weaponized\nTo test a new front-end.",
+          "releases": {
+            "descriptionAt": "2026-02-19T15:00:00-03:00",
+            "downloadAt": "2026-02-19T15:00:00-03:00",
+            "forceDescription": true,
+            "forceDownload": true
+          },
+          "deadlineAt": "2026-02-24T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed6"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
+    },
+    {
+      "week": 4,
+      "seeds": [
+        {
+          "id": "w4s7",
+          "title": "Seed 7 - CORRUPT.EXE",
+          "version": "v1.0",
+            "descriptionText": "This seed was corrupted during creation. Not everything is where it should be, and not everything is what it seems. We managed to recover fragments of the original description:\n\n• There are 17 Unique Shards in this seed\n• 17 Shards are required as a Team to burn the Sealing Tree\n• The goal is for BOTH players to defeat the Consort Replacement\n\nO Mother Checker was used… but the results were lost.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nThe Last Seed of 17 as the End draws near\nNot Much can save you from fear\nWhere the Burden is Heavy and it's not cold\nThe Last Golden Remnant is beneath The Globe\nThe Seed seeks to consume all to damnation\nPerhaps the Globe is your only salvation.",          "releases": {
+            "descriptionAt": "2026-02-25T15:00:00-03:00",
+            "downloadAt": "2026-02-25T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-03-03T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed7"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w4s8",
+          "title": "Seed 8 - AbsoLOOT Finale",
+          "version": "v1.0",
+          "descriptionText": "Tired of stopping at 17 shards? In this seed, the number never stops climbing.\n\nThe overlay will list bosses that can drop shards, but shards are NOT limited to those checks. Additional Unique Messmer Kindling Shards are hidden throughout notable locations across the Realm of Shadow.\n\nThe objective is simple:\nCollect as many UNIQUE Messmer Kindling Shards as possible within 1 hour and 45 minutes.\n\nTime rules:\n• When a player reaches 1:45:00, they must immediately quit out\n• If their teammate has not yet reached 1:45:00, they may continue playing until they also hit 1:45:00\n\nScoring rules:\n• Duplicate shards do NOT count toward your total\n• Teams must track duplicates and subtract them from their final score\n\nExplore everything and check everywhere, the counter only goes up.",          
+          "releases": {
+            "descriptionAt": "2026-02-26T15:00:00-03:00",
+            "downloadAt": "2026-02-26T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-03-03T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed8"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
+    }
+  ]
+}

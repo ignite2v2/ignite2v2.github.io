@@ -1,0 +1,64 @@
+{
+   "DLC Start to Dragon's Pit": [ "1:25", "1:23", "1:24" ],
+   "DLC Start to Three Path": ["1:06"],
+   "DLC Start to Scorched Ruins": ["0:42"],
+   "DLC Start to Piller Path Waypoint": ["1:32"],
+   "DLC Start to Western Mausoleum": ["0:44"],
+
+
+   "Scorched Ruins to Three Path": ["0:36"],
+   "Scorched Ruins to Dragon's Pit": ["0:49"],
+   "Scorched Ruins to Piller Path Waypoint": ["1:01"],
+   "Scorched Ruins Tombstone Skip to Tollier": ["1:15"],
+   "Scorched Ruins to Western Mausoleum": ["0:33"],
+
+
+   "Pillar Path Waypoint to Reprimand Spirit Spring": ["1:15"],
+   "Pillar Path Waypoint to Tollier": ["0:16"],
+   "Pillar Path Waypoint to Dragon's Pit": ["0:45"],
+   "Tollier to Pillar Path Waypoint": ["0:30"],
+
+   "Dragon's Pit to Scorched Ruins": ["0:41"],
+
+
+   "Three Path to Western Mausoluem": ["0:33"],
+   "Three Path to Gravesite Ghostflame Dragon": ["0:37"],
+   "Three Path to Greatbridge North": ["0:32"],
+   "Three Path to Tollier": ["1:19"],
+   "Three Path to Reprimand Spirit Spring": ["2:08"],
+   "Three Path to Main Gate Cross": ["0:35"],
+
+   "Greatbridge North to Gravesite Ghostflame Dragon": ["0:13"],
+
+   "Tollier to Reprimand Spirit Spring": ["0:59"],
+   "Dragon's Pit to Tollier": [ "1:02" ],
+   "Dragon's Pit to Tollier Event Skip": [ "1:01" ],
+
+   "Rerpimand Spirit to Backside of Reprimand to Moorth Ruins": ["1:11"],
+   "Rerpimand Spirit to Frontside of Reprimand to Moorth Ruins": ["1:09"],
+   "Rerpimand Spirit Spring to Moorth Ruins": [ "0:59" ],
+   "Rerpimand Spirit Spring to O Mother": [ "0:59" ],
+   "Moorth Ruins to O Mother": [ "0:32" ],
+   "O Mother to Bridge Leading to the Village": ["0:37"],
+   "Moorth Ruins to Highroad Cross": ["0:28"],
+   "Highroad Cross to Ralva": ["0:46"],
+   "Moorth Ruins to Ralva": ["0:49"],
+   "Moorth Ruins to Ancient Ruins Base": ["1:21"],
+   "Ralva to Ancient Ruins Base": ["1:02"],
+   "Ralva to Golden Hippo": ["1:13", "1:12"],
+   "Backsection to Golden Hippo": ["1:03", "1:05"],
+   "Moorth Ruins to Bridge Leading to the Village": ["1:09"],
+   "Moorth Ruins to Church District Highroad": ["2:07"],
+   "Bridge Leading to the Village to Church District Highroad": ["1:00"],
+   "Church District Highroad to Dupe and Ymir": ["1:07"],
+   "Church District Highroad to Ymir": ["0:49"],
+   "Church District Highroad to Cathedral of Manus Metyr": ["0:40"],
+   "Church District Highroad to Church District Entrance": ["0:44"],
+   "Church District Entrance to Backsection": ["1:37"],
+   "Church District Entrace to Drain": ["1:15"],
+   "Drain to Backsection": ["1:07"],
+   "Drain to Sunken Chapel": ["0:11"],
+   "Sunken Chapel to Backsection": ["1:09"],
+   "Backsection to Loft": ["0:55"],
+   "Loft to Shadow Keep Backgate": ["1:24"]
+}

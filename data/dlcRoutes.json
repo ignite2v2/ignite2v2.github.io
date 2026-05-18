@@ -1,0 +1,66 @@
+{
+  "routes": [
+    {
+      "routeId": "Adm Route",
+      "label": "Basic ADM Route",
+      "checkIds": [
+         "location_01",
+         "location_02",
+         "location_03",
+         "location_04",
+         "location_05",
+         "location_07",
+         "location_08",
+         "keyItem_02",
+         "keyItem_04",
+         "keyItem_03",
+         "location_09",
+         "location_10",
+         "location_11",
+         "boss_06",
+         "boss_11",
+         "boss_12",
+         "location_03",
+         "boss_05",
+         "boss_21",
+         "boss_22",
+         "boss_25",
+         "boss_26",
+         "boss_29",
+         "boss_30",
+         "boss_31",
+         "boss_27"
+      ]
+    },
+    {
+      "routeId": "Belurat Route",
+      "label": "Basic Belurat Route",
+      "checkIds": [
+        "location_01",
+        "location_06",
+        "location_04",
+        "location_05",
+        "location_07",
+        "keyItem_04",
+        "keyItem_03",
+        "location_09",
+        "location_10",
+        "location_11",
+        "location_06",
+        "keyItem_01",
+        "boss_03",
+        "boss_01",
+        "boss_02",
+        "location_07",
+        "boss_17",
+        "boss_18",
+        "boss_13",
+        "boss_38",
+        "boss_39",
+        "boss_40",
+        "boss_37",
+        "boss_36"
+      ]
+    }
+  ]
+}

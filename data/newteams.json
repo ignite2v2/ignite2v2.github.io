@@ -1,0 +1,447 @@
+{
+  "races": [
+    { "raceId": "seed1", "label": "Seed 1" },
+    { "raceId": "seed2", "label": "Seed 2" },
+    { "raceId": "seed3", "label": "Seed 3" }
+  ],
+  "pointsTable": [50, 47, 45, 42, 39, 37, 34, 31, 29, 26, 23, 21, 18, 15, 13, 10],
+  "teams": [
+    {
+      "id": "disappointment-randomizer-legion",
+      "teamName": "Disappointment Randomizer Legion",
+      "player1": { "name": "HooZher" },
+      "player2": { "name": "PsiPhi" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5075,
+          "player1Kills": 21,
+          "player1Deaths": 2,
+          "player2Seconds": 4767,
+          "player2Kills": 17,
+          "player2Deaths": 0,
+          "teamSeconds": 9842,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 4564,
+          "player1Kills": 21,
+          "player1Deaths": 1,
+          "player2Seconds": 4917,
+          "player2Kills": 16,
+          "player2Deaths": 2,
+          "teamSeconds": 9481,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed3",
+          "label": "Seed 3",
+          "player1Seconds": 3947,
+          "player1Kills": 21,
+          "player1Deaths": 0,
+          "player2Seconds": 4469,
+          "player2Kills": 18,
+          "player2Deaths": 1,
+          "teamSeconds": 8416,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "team-innovation",
+      "teamName": "Team Innovation",
+      "player1": { "name": "Shura" },
+      "player2": { "name": "Nartock" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 4524,
+          "player1Kills": 18,
+          "player1Deaths": 0,
+          "player2Seconds": 4884,
+          "player2Kills": 20,
+          "player2Deaths": 5,
+          "teamSeconds": 9408,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 4354,
+          "player1Kills": 16,
+          "player1Deaths": 0,
+          "player2Seconds": 4686,
+          "player2Kills": 22,
+          "player2Deaths": 1,
+          "teamSeconds": 9040,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed3",
+          "label": "Seed 3",
+          "player1Seconds": 4579,
+          "player1Kills": 18,
+          "player1Deaths": 1,
+          "player2Seconds": 4561,
+          "player2Kills": 19,
+          "player2Deaths": 7,
+          "teamSeconds": 9140,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "washed-and-unc",
+      "teamName": "Washed and Unc",
+      "player1": { "name": "Harv" },
+      "player2": { "name": "Ratty" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5981,
+          "player1Kills": 20,
+          "player1Deaths": 8,
+          "player2Seconds": 6595,
+          "player2Kills": 17,
+          "player2Deaths": 11,
+          "teamSeconds": 12576,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5561,
+          "player1Kills": 15,
+          "player1Deaths": 7,
+          "player2Seconds": 6010,
+          "player2Kills": 21,
+          "player2Deaths": 4,
+          "teamSeconds": 11571,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed3",
+          "label": "Seed 3",
+          "player1Seconds": 5012,
+          "player1Kills": 17,
+          "player1Deaths": 6,
+          "player2Seconds": 6133,
+          "player2Kills": 21,
+          "player2Deaths": 20,
+          "teamSeconds": 11145,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "music-makers",
+      "teamName": "Music Makers",
+      "player1": { "name": "Elymis" },
+      "player2": { "name": "Wander" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5132,
+          "player1Kills": 23,
+          "player1Deaths": 1,
+          "player2Seconds": 4596,
+          "player2Kills": 15,
+          "player2Deaths": 2,
+          "teamSeconds": 9728,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "brain-and-brawl",
+      "teamName": "Brain & Brawl",
+      "player1": { "name": "Dino" },
+      "player2": { "name": "Rambler" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5195,
+          "player1Kills": 18,
+          "player1Deaths": 5,
+          "player2Seconds": 5973,
+          "player2Kills": 20,
+          "player2Deaths": 10,
+          "teamSeconds": 11168,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5428,
+          "player1Kills": 22,
+          "player1Deaths": 4,
+          "player2Seconds": 4571,
+          "player2Kills": 16,
+          "player2Deaths": 2,
+          "teamSeconds": 9999,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "thus-spoke-messmerstra",
+      "teamName": "Thus Spoke Messmerstra",
+      "player1": { "name": "Jibbe" },
+      "player2": { "name": "KC" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 6271,
+          "player1Kills": 22,
+          "player1Deaths": 7,
+          "player2Seconds": 9650,
+          "player2Kills": 16,
+          "player2Deaths": 45,
+          "teamSeconds": 15921,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5455,
+          "player1Kills": 23,
+          "player1Deaths": 0,
+          "player2Seconds": 9105,
+          "player2Kills": 16,
+          "player2Deaths": 45,
+          "teamSeconds": 14560,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed3",
+          "label": "Seed 3",
+          "player1Seconds": 4689,
+          "player1Kills": 24,
+          "player1Deaths": 1,
+          "player2Seconds": 5659,
+          "player2Kills": 15,
+          "player2Deaths": 14,
+          "teamSeconds": 10348,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "incoherrent-idiots",
+      "teamName": "Incoherrent Idiots",
+      "player1": { "name": "Lukas" },
+      "player2": { "name": "Fun" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5853,
+          "player1Kills": 21,
+          "player1Deaths": 3,
+          "player2Seconds": 5111,
+          "player2Kills": 16,
+          "player2Deaths": 1,
+          "teamSeconds": 10964,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5358,
+          "player1Kills": 22,
+          "player1Deaths": 2,
+          "player2Seconds": 5162,
+          "player2Kills": 15,
+          "player2Deaths": 8,
+          "teamSeconds": 10520,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "brosimum-utile",
+      "teamName": "Brosimum Utile",
+      "player1": { "name": "Vakrash" },
+      "player2": { "name": "Strump" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5326,
+          "player1Kills": 19,
+          "player1Deaths": 2,
+          "player2Seconds": 5620,
+          "player2Kills": 19,
+          "player2Deaths": 5,
+          "teamSeconds": 10946,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5575,
+          "player1Kills": 20,
+          "player1Deaths": 6,
+          "player2Seconds": 5247,
+          "player2Kills": 18,
+          "player2Deaths": 5,
+          "teamSeconds": 10822,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "elysee-treatyyy",
+      "teamName": "Élysée Treatyyy",
+      "player1": { "name": "theMixed_" },
+      "player2": { "name": "jeffqed" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 4894,
+          "player1Kills": 17,
+          "player1Deaths": 3,
+          "player2Seconds": 5442,
+          "player2Kills": 21,
+          "player2Deaths": 2,
+          "teamSeconds": 10336,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5628,
+          "player1Kills": 15,
+          "player1Deaths": 7,
+          "player2Seconds": 5063,
+          "player2Kills": 22,
+          "player2Deaths": 3,
+          "teamSeconds": 10691,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "fart-smellas",
+      "teamName": "Fart Smellas",
+      "player1": { "name": "Josh~" },
+      "player2": { "name": "Rony" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 4840,
+          "player1Kills": 16,
+          "player1Deaths": 1,
+          "player2Seconds": 5216,
+          "player2Kills": 21,
+          "player2Deaths": 3,
+          "teamSeconds": 10056,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "deeply-lost-cats",
+      "teamName": "Deeply Lost Cats",
+      "player1": { "name": "Bekineko" },
+      "player2": { "name": "Mewtwo2u" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 12215,
+          "player1Kills": 20,
+          "player1Deaths": 32,
+          "player2Seconds": 15136,
+          "player2Kills": 17,
+          "player2Deaths": 61,
+          "teamSeconds": 27351,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "hog-crankers",
+      "teamName": "Hog Crankers",
+      "player1": { "name": "Pluryl" },
+      "player2": { "name": "Asym" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5327,
+          "player1Kills": 21,
+          "player1Deaths": 2,
+          "player2Seconds": 5495,
+          "player2Kills": 16,
+          "player2Deaths": 5,
+          "teamSeconds": 10822,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "australandzealandlanders",
+      "teamName": "Australandzealandlanders",
+      "player1": { "name": "Doitz" },
+      "player2": { "name": "Azdomiel" },
+      "races": [
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 7101,
+          "player1Kills": 24,
+          "player1Deaths": 9,
+          "player2Seconds": 9830,
+          "player2Kills": 15,
+          "player2Deaths": 47,
+          "teamSeconds": 16931,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "lazycat",
+      "teamName": "LazyCat",
+      "player1": { "name": "Helios" },
+      "player2": { "name": "Catalyst" },
+      "races": [
+        {
+          
+        }
+      ]
+    },
+    {
+      "id": "ironyeupirl",
+      "teamName": "Ironyeu&Pirl",
+      "player1": { "name": "Ironyeu" },
+      "player2": { "name": "Pirl" },
+      "races": [
+        {
+          
+        }
+      ]
+    },
+    {
+      "id": "typingordy",
+      "teamName": "Typin&Gordy",
+      "player1": { "name": "Typin" },
+      "player2": { "name": "Gordychou" },
+      "races": [
+        {
+          
+        }
+      ]
+    }
+  ]
+}
