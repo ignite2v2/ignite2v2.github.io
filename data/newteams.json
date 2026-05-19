@@ -12,41 +12,21 @@
       "player1": { "name": "HooZher" },
       "player2": { "name": "PsiPhi" },
       "races": [
-        {
-          "raceId": "seed1",
-          "label": "Seed 1",
-          "player1Seconds": 5075,
-          "player1Kills": 21,
-          "player1Deaths": 2,
-          "player2Seconds": 4767,
-          "player2Kills": 17,
-          "player2Deaths": 0,
-          "teamSeconds": 9842,
-          "status": "OK"
+        { "raceId": "seed1", "label": "Seed 1",
+          "player1Seconds": 5075, "player1Kills": 21, "player1Deaths": 2,
+          "player2Seconds": 4767, "player2Kills": 17, "player2Deaths": 0
         },
         {
           "raceId": "seed2",
           "label": "Seed 2",
-          "player1Seconds": 4564,
-          "player1Kills": 21,
-          "player1Deaths": 1,
-          "player2Seconds": 4917,
-          "player2Kills": 16,
-          "player2Deaths": 2,
-          "teamSeconds": 9481,
-          "status": "OK"
+          "player1Seconds": 4564, "player1Kills": 21, "player1Deaths": 1,
+          "player2Seconds": 4917, "player2Kills": 16, "player2Deaths": 2
         },
         {
           "raceId": "seed3",
           "label": "Seed 3",
-          "player1Seconds": 3947,
-          "player1Kills": 21,
-          "player1Deaths": 0,
-          "player2Seconds": 4469,
-          "player2Kills": 18,
-          "player2Deaths": 1,
-          "teamSeconds": 8416,
-          "status": "OK"
+          "player1Seconds": 3947, "player1Kills": 21, "player1Deaths": 0,
+          "player2Seconds": 4469, "player2Kills": 18, "player2Deaths": 1
         }
       ]
     },
@@ -64,9 +44,7 @@
           "player1Deaths": 0,
           "player2Seconds": 4884,
           "player2Kills": 20,
-          "player2Deaths": 5,
-          "teamSeconds": 9408,
-          "status": "OK"
+          "player2Deaths": 5
         },
         {
           "raceId": "seed2",
@@ -76,9 +54,7 @@
           "player1Deaths": 0,
           "player2Seconds": 4686,
           "player2Kills": 22,
-          "player2Deaths": 1,
-          "teamSeconds": 9040,
-          "status": "OK"
+          "player2Deaths": 1
         },
         {
           "raceId": "seed3",
@@ -88,9 +64,7 @@
           "player1Deaths": 1,
           "player2Seconds": 4561,
           "player2Kills": 19,
-          "player2Deaths": 7,
-          "teamSeconds": 9140,
-          "status": "OK"
+          "player2Deaths": 7
         }
       ]
     },
@@ -108,9 +82,7 @@
           "player1Deaths": 8,
           "player2Seconds": 6595,
           "player2Kills": 17,
-          "player2Deaths": 11,
-          "teamSeconds": 12576,
-          "status": "OK"
+          "player2Deaths": 11
         },
         {
           "raceId": "seed2",
@@ -120,9 +92,7 @@
           "player1Deaths": 7,
           "player2Seconds": 6010,
           "player2Kills": 21,
-          "player2Deaths": 4,
-          "teamSeconds": 11571,
-          "status": "OK"
+          "player2Deaths": 4
         },
         {
           "raceId": "seed3",
@@ -132,9 +102,7 @@
           "player1Deaths": 6,
           "player2Seconds": 6133,
           "player2Kills": 21,
-          "player2Deaths": 20,
-          "teamSeconds": 11145,
-          "status": "OK"
+          "player2Deaths": 20
         }
       ]
     },
@@ -152,9 +120,17 @@
           "player1Deaths": 1,
           "player2Seconds": 4596,
           "player2Kills": 15,
-          "player2Deaths": 2,
-          "teamSeconds": 9728,
-          "status": "OK"
+          "player2Deaths": 2
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 5294,
+          "player1Kills": 24,
+          "player1Deaths": 7,
+          "player2Seconds": 4872,
+          "player2Kills": 14,
+          "player2Deaths": 4
         }
       ]
     },
@@ -172,9 +148,7 @@
           "player1Deaths": 5,
           "player2Seconds": 5973,
           "player2Kills": 20,
-          "player2Deaths": 10,
-          "teamSeconds": 11168,
-          "status": "OK"
+          "player2Deaths": 10
         },
         {
           "raceId": "seed2",
@@ -184,9 +158,7 @@
           "player1Deaths": 4,
           "player2Seconds": 4571,
           "player2Kills": 16,
-          "player2Deaths": 2,
-          "teamSeconds": 9999,
-          "status": "OK"
+          "player2Deaths": 2
         }
       ]
     },
@@ -204,9 +176,7 @@
           "player1Deaths": 7,
           "player2Seconds": 9650,
           "player2Kills": 16,
-          "player2Deaths": 45,
-          "teamSeconds": 15921,
-          "status": "OK"
+          "player2Deaths": 45
         },
         {
           "raceId": "seed2",
@@ -216,9 +186,7 @@
           "player1Deaths": 0,
           "player2Seconds": 9105,
           "player2Kills": 16,
-          "player2Deaths": 45,
-          "teamSeconds": 14560,
-          "status": "OK"
+          "player2Deaths": 45
         },
         {
           "raceId": "seed3",
@@ -228,9 +196,7 @@
           "player1Deaths": 1,
           "player2Seconds": 5659,
           "player2Kills": 15,
-          "player2Deaths": 14,
-          "teamSeconds": 10348,
-          "status": "OK"
+          "player2Deaths": 14
         }
       ]
     },
@@ -248,9 +214,7 @@
           "player1Deaths": 3,
           "player2Seconds": 5111,
           "player2Kills": 16,
-          "player2Deaths": 1,
-          "teamSeconds": 10964,
-          "status": "OK"
+          "player2Deaths": 1
         },
         {
           "raceId": "seed2",
@@ -260,9 +224,7 @@
           "player1Deaths": 2,
           "player2Seconds": 5162,
           "player2Kills": 15,
-          "player2Deaths": 8,
-          "teamSeconds": 10520,
-          "status": "OK"
+          "player2Deaths": 8
         }
       ]
     },
@@ -280,9 +242,7 @@
           "player1Deaths": 2,
           "player2Seconds": 5620,
           "player2Kills": 19,
-          "player2Deaths": 5,
-          "teamSeconds": 10946,
-          "status": "OK"
+          "player2Deaths": 5
         },
         {
           "raceId": "seed2",
@@ -292,9 +252,7 @@
           "player1Deaths": 6,
           "player2Seconds": 5247,
           "player2Kills": 18,
-          "player2Deaths": 5,
-          "teamSeconds": 10822,
-          "status": "OK"
+          "player2Deaths": 5
         }
       ]
     },
@@ -312,9 +270,7 @@
           "player1Deaths": 3,
           "player2Seconds": 5442,
           "player2Kills": 21,
-          "player2Deaths": 2,
-          "teamSeconds": 10336,
-          "status": "OK"
+          "player2Deaths": 2
         },
         {
           "raceId": "seed2",
@@ -324,9 +280,7 @@
           "player1Deaths": 7,
           "player2Seconds": 5063,
           "player2Kills": 22,
-          "player2Deaths": 3,
-          "teamSeconds": 10691,
-          "status": "OK"
+          "player2Deaths": 3
         }
       ]
     },
@@ -344,9 +298,7 @@
           "player1Deaths": 1,
           "player2Seconds": 5216,
           "player2Kills": 21,
-          "player2Deaths": 3,
-          "teamSeconds": 10056,
-          "status": "OK"
+          "player2Deaths": 3
         }
       ]
     },
@@ -364,9 +316,7 @@
           "player1Deaths": 32,
           "player2Seconds": 15136,
           "player2Kills": 17,
-          "player2Deaths": 61,
-          "teamSeconds": 27351,
-          "status": "OK"
+          "player2Deaths": 61
         }
       ]
     },
@@ -384,9 +334,7 @@
           "player1Deaths": 2,
           "player2Seconds": 5495,
           "player2Kills": 16,
-          "player2Deaths": 5,
-          "teamSeconds": 10822,
-          "status": "OK"
+          "player2Deaths": 5
         }
       ]
     },
@@ -404,20 +352,25 @@
           "player1Deaths": 9,
           "player2Seconds": 9830,
           "player2Kills": 15,
-          "player2Deaths": 47,
-          "teamSeconds": 16931,
-          "status": "OK"
+          "player2Deaths": 47
         }
       ]
     },
     {
       "id": "lazycat",
-      "teamName": "LazyCat",
+      "teamName": "Lazy Cats",
       "player1": { "name": "Helios" },
       "player2": { "name": "Catalyst" },
       "races": [
         {
-          
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 4801,
+          "player1Kills": 17,
+          "player1Deaths": 1,
+          "player2Seconds": 4887,
+          "player2Kills": 21,
+          "player2Deaths": 1
         }
       ]
     },
@@ -433,13 +386,20 @@
       ]
     },
     {
-      "id": "typingordy",
-      "teamName": "Typin&Gordy",
+      "id": "nepheli-loux",
+      "teamName": "Nepheli Loux",
       "player1": { "name": "Typin" },
       "player2": { "name": "Gordychou" },
       "races": [
         {
-          
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 5904,
+          "player1Kills": 21,
+          "player1Deaths": 1,
+          "player2Seconds": 6523,
+          "player2Kills": 18,
+          "player2Deaths": 3
         }
       ]
     }
