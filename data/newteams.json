@@ -134,7 +134,10 @@
       "player1": { "name": "Pluryl" },
       "player2": { "name": "Asym" },
       "races": [
-        { "raceId": "seed1", "player1Seconds": 5327, "player1Kills": 21, "player1Deaths": 2, "player2Seconds": 5495, "player2Kills": 16, "player2Deaths": 5 }
+        { "raceId": "seed1", "player1Seconds": 5327, "player1Kills": 21, "player1Deaths": 2, "player2Seconds": 5495, "player2Kills": 16, "player2Deaths": 5 },
+        { "raceId": "seed2", "player1Seconds": 5369, "player1Kills": 20, "player1Deaths": 3, "player2Seconds": 4684, "player2Kills": 17, "player2Deaths": 4 },
+        { "raceId": "seed3", "player1Seconds": 4112, "player1Kills": 19, "player1Deaths": 1, "player2Seconds": 4288, "player2Kills": 18, "player2Deaths": 1 }
+
       ]
     },
     {
