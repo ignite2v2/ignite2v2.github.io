@@ -46,7 +46,8 @@
       "player2": { "name": "Wander" },
       "races": [
         { "raceId": "seed1", "player1Seconds": 5132, "player1Kills": 23, "player1Deaths": 1, "player2Seconds": 4596, "player2Kills": 15, "player2Deaths": 2 },
-        { "raceId": "seed2", "player1Seconds": 5294, "player1Kills": 24, "player1Deaths": 7, "player2Seconds": 4872, "player2Kills": 14, "player2Deaths": 4 }
+        { "raceId": "seed2", "player1Seconds": 5294, "player1Kills": 24, "player1Deaths": 7, "player2Seconds": 4872, "player2Kills": 14, "player2Deaths": 4 },
+        { "raceId": "seed3", "player1Seconds": 4273, "player1Kills": 20, "player1Deaths": 2, "player2Seconds": 4131, "player2Kills": 18, "player2Deaths": 3 }
       ]
     },
     {
@@ -89,7 +90,8 @@
       "player2": { "name": "Strump" },
       "races": [
         { "raceId": "seed1", "player1Seconds": 5326, "player1Kills": 19, "player1Deaths": 2, "player2Seconds": 5620, "player2Kills": 19, "player2Deaths": 5 },
-        { "raceId": "seed2", "player1Seconds": 5575, "player1Kills": 20, "player1Deaths": 6, "player2Seconds": 5247, "player2Kills": 18, "player2Deaths": 5 }
+        { "raceId": "seed2", "player1Seconds": 5575, "player1Kills": 20, "player1Deaths": 6, "player2Seconds": 5247, "player2Kills": 18, "player2Deaths": 5 },
+        { "raceId": "seed3", "player1Seconds": 4900, "player1Kills": 20, "player1Deaths": 5, "player2Seconds": 4227, "player2Kills": 18, "player2Deaths": 2 }
       ]
     },
     {
@@ -104,12 +106,15 @@
       ]
     },
     {
-      "id": "fart-smellas",
-      "teamName": "Fart Smellas",
-      "player1": { "name": "Josh~" },
-      "player2": { "name": "Rony" },
+      "id": "dltrry",
+      "teamName": "dltrry",
+      "player1": { "name": "Vord" },
+      "player2": { "name": "LetsPrepareToTry" },
       "races": [
-        { "raceId": "seed1", "player1Seconds": 4840, "player1Kills": 16, "player1Deaths": 1, "player2Seconds": 5216, "player2Kills": 21, "player2Deaths": 3}
+        { "raceId": "seed1", "player1Seconds": 5829, "player1Kills": 21, "player1Deaths": 4, "player2Seconds": 6241, "player2Kills": 16, "player2Deaths": 12 },
+        { "raceId": "seed2", "player1Seconds": 5606, "player1Kills": 21, "player1Deaths": 5, "player2Seconds": 6387, "player2Kills": 17, "player2Deaths": 15 },
+        { "raceId": "seed3", "player1Seconds": 4529, "player1Kills": 22, "player1Deaths": 6, "player2Seconds": 4959, "player2Kills": 17, "player2Deaths": 0 }
+
       ]
     },
     {
@@ -172,7 +177,8 @@
       "player2": { "name": "Gordychou" },
       "races": [
         { "raceId": "seed1", "player1Seconds": 5904, "player1Kills": 21, "player1Deaths": 1, "player2Seconds": 6523, "player2Kills": 18, "player2Deaths": 3 },
-        { "raceId": "seed2", "player1Seconds": 6108, "player1Kills": 23, "player1Deaths": 4, "player2Seconds": 7292, "player2Kills": 17, "player2Deaths": 12 }
+        { "raceId": "seed2", "player1Seconds": 6108, "player1Kills": 23, "player1Deaths": 4, "player2Seconds": 7292, "player2Kills": 17, "player2Deaths": 12 },
+        { "raceId": "seed3", "player1Seconds": 5049, "player1Kills": 21, "player1Deaths": 7, "player2Seconds": 5465, "player2Kills": 20, "player2Deaths": 0 }
       ]
     }
   ]
