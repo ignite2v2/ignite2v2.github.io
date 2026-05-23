@@ -1,9 +1,10 @@
 {
-   "Catalytz": { "twitch": "https://www.twitch.tv/Catalystz", "profilePic": "/castingTeam/Catalystz.png" },
+   "Catalystz": { "twitch": "https://www.twitch.tv/Catalystz", "profilePic": "/castingTeam/Catalystz.png" },
    "Gordychou": { "twitch": "https://www.twitch.tv/gordychou", "profilePic": "/castingTeam/gordychou.png" },
    "Elymis": { "twitch": "https://www.twitch.tv/Elymis", "profilePic": "/castingTeam/Ellie.png" },
    "Harv": { "twitch": "https://www.twitch.tv/beardandthehair", "profilePic": "/castingTeam/harv.png"},
    "HooZher": { "twitch": "https://www.twitch.tv/HooZher", "profilePic": "/castingTeam/hoozher.png" },
    "Kahleeya": { "twitch": "https://www.twitch.tv/Kahleeya", "profilePic": "/castingTeam/kahleeya.png" },
-   "Psiphicode": { "twitch": "https://www.twitch.tv/psiphicode", "profilePic": "/castingTeam/psiphicode.png" }
+   "Psiphicode": { "twitch": "https://www.twitch.tv/psiphicode", "profilePic": "/castingTeam/psiphicode.png" },
+   "Pirl_Fresh": { "twitch": "https://www.twitch.tv/pirl_fresh", "profilePic": "/castingTeam/pirl.png" }
 }
