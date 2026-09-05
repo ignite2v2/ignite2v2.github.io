@@ -1,0 +1,2344 @@
+{
+  "archive_version": 1,
+  "archived_at": "2026-09-04T22:25:51.151Z",
+  "source": "Supabase event database with verified local backfills",
+  "event": {
+    "status": "complete",
+    "format": "double elimination",
+    "champion": {
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "players": [
+        "Nartock",
+        "Shura"
+      ]
+    },
+    "runner_up": {
+      "team_id": "4",
+      "team_name": "Music Makers"
+    },
+    "grand_finals": {
+      "bracket_reset": true,
+      "games": [
+        {
+          "series_id": "GF-G1",
+          "label": "Grand Final",
+          "team_a": "4",
+          "team_b": "2",
+          "winner_team_id": "2",
+          "complete": true
+        },
+        {
+          "series_id": "GF-G2",
+          "label": "Bracket Reset",
+          "team_a": "4",
+          "team_b": "2",
+          "winner_team_id": "2",
+          "complete": true
+        }
+      ]
+    }
+  },
+  "counts": {
+    "matchups": 30,
+    "playoff_teams": 16,
+    "completed_runs": 61
+  },
+  "matchups": [
+    {
+      "series_id": "GF-1",
+      "team_a": "4",
+      "team_b": "2",
+      "scheduled_at": null,
+      "complete": false,
+      "created_at": "2026-07-20T00:03:38.187531+00:00",
+      "commentary": null
+    },
+    {
+      "series_id": "LF-1",
+      "team_a": "1",
+      "team_b": "2",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-07-19T17:47:12.994807+00:00",
+      "commentary": null
+    },
+    {
+      "series_id": "LR1-1",
+      "team_a": "16",
+      "team_b": "9",
+      "scheduled_at": "2026-06-01T20:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-23T02:25:54.606349+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "LR1-2",
+      "team_a": "12",
+      "team_b": "13",
+      "scheduled_at": "2026-05-26T20:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-23T17:12:33.646637+00:00",
+      "commentary": [
+        "Psiphicode",
+        "Pirl_Fresh"
+      ]
+    },
+    {
+      "series_id": "LR1-3",
+      "team_a": "14",
+      "team_b": "11",
+      "scheduled_at": "2026-05-29T18:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-24T20:04:48.643509+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "LR1-4",
+      "team_a": "10",
+      "team_b": "15",
+      "scheduled_at": "2026-06-07T07:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-24T20:05:35.376992+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "LR2-1",
+      "team_a": "9",
+      "team_b": "7",
+      "scheduled_at": "2026-06-03T20:30:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-30T19:47:41.140453+00:00",
+      "commentary": [
+        "Elymis",
+        "LetsPrepareToTry"
+      ]
+    },
+    {
+      "series_id": "LR2-2",
+      "team_a": "13",
+      "team_b": "6",
+      "scheduled_at": "2026-06-15T19:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-26T22:25:03.584327+00:00",
+      "commentary": [
+        "Harv",
+        "Pirl_Fresh"
+      ]
+    },
+    {
+      "series_id": "LR2-3",
+      "team_a": "11",
+      "team_b": "5",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-05-29T21:13:27.121308+00:00",
+      "commentary": [
+        "Harv"
+      ],
+      "winner_team_id": "5"
+    },
+    {
+      "series_id": "LR2-4",
+      "team_a": "10",
+      "team_b": "8",
+      "scheduled_at": "2026-06-19T19:30:00+00:00",
+      "complete": true,
+      "created_at": "2026-06-01T21:58:55.982756+00:00",
+      "commentary": []
+    },
+    {
+      "series_id": "LR3-1",
+      "team_a": "9",
+      "team_b": "6",
+      "scheduled_at": "2026-06-27T21:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-06-03T22:23:04.870928+00:00",
+      "commentary": []
+    },
+    {
+      "series_id": "LR3-2",
+      "team_a": "5",
+      "team_b": "10",
+      "scheduled_at": "2026-06-28T17:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-06-19T21:34:19.108952+00:00",
+      "commentary": []
+    },
+    {
+      "series_id": "LR4-1",
+      "team_a": "6",
+      "team_b": "1",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-06-28T17:56:01.799659+00:00",
+      "commentary": null
+    },
+    {
+      "series_id": "LR4-2",
+      "team_a": "5",
+      "team_b": "3",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-06-15T23:02:19.061883+00:00",
+      "commentary": null
+    },
+    {
+      "series_id": "LR5-1",
+      "team_a": "1",
+      "team_b": "3",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-07-10T05:11:16.267773+00:00",
+      "commentary": null
+    },
+    {
+      "series_id": "QF-1",
+      "team_a": "1",
+      "team_b": "8",
+      "scheduled_at": "2026-06-01T18:15:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-23T02:25:19.274417+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "QF-2",
+      "team_a": "5",
+      "team_b": "4",
+      "scheduled_at": "2026-06-06T16:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-23T17:11:37.510705+00:00",
+      "commentary": [
+        "Jay"
+      ]
+    },
+    {
+      "series_id": "QF-3",
+      "team_a": "3",
+      "team_b": "6",
+      "scheduled_at": "2026-06-01T15:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-24T20:03:23.557456+00:00",
+      "commentary": [
+        "Catalystz"
+      ]
+    },
+    {
+      "series_id": "QF-4",
+      "team_a": "7",
+      "team_b": "2",
+      "scheduled_at": "2026-05-30T08:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-24T20:03:59.059295+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "R16-1",
+      "team_a": "1",
+      "team_b": "16",
+      "scheduled_at": "2026-05-27T15:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "Elymis"
+      ]
+    },
+    {
+      "series_id": "R16-2",
+      "team_a": "8",
+      "team_b": "9",
+      "scheduled_at": "2026-05-22T20:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "Harv"
+      ]
+    },
+    {
+      "series_id": "R16-3",
+      "team_a": "5",
+      "team_b": "12",
+      "scheduled_at": "2026-05-23T20:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "HooZher"
+      ]
+    },
+    {
+      "series_id": "R16-4",
+      "team_a": "4",
+      "team_b": "13",
+      "scheduled_at": "2026-05-23T15:15:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "HooZher",
+        "Kahleeya"
+      ]
+    },
+    {
+      "series_id": "R16-5",
+      "team_a": "3",
+      "team_b": "14",
+      "scheduled_at": "2026-05-24T17:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "Harv",
+        "LetsPrepareToTry"
+      ]
+    },
+    {
+      "series_id": "R16-6",
+      "team_a": "6",
+      "team_b": "11",
+      "scheduled_at": "2026-05-24T14:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "Jay"
+      ]
+    },
+    {
+      "series_id": "R16-7",
+      "team_a": "7",
+      "team_b": "10",
+      "scheduled_at": "2026-05-27T18:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "HooZher"
+      ]
+    },
+    {
+      "series_id": "R16-8",
+      "team_a": "2",
+      "team_b": "15",
+      "scheduled_at": "2026-05-24T07:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-21T08:28:47.861429+00:00",
+      "commentary": [
+        "Harv",
+        "LetsPrepareToTry"
+      ]
+    },
+    {
+      "series_id": "SF-1",
+      "team_a": "1",
+      "team_b": "4",
+      "scheduled_at": "2026-06-28T16:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-06-01T21:58:01.717876+00:00",
+      "commentary": []
+    },
+    {
+      "series_id": "SF-2",
+      "team_a": "3",
+      "team_b": "2",
+      "scheduled_at": "2026-06-15T21:00:00+00:00",
+      "complete": true,
+      "created_at": "2026-05-30T19:48:18.268318+00:00",
+      "commentary": [
+        "Elymis"
+      ]
+    },
+    {
+      "series_id": "WF-1",
+      "team_a": "4",
+      "team_b": "2",
+      "scheduled_at": null,
+      "complete": true,
+      "created_at": "2026-06-19T21:39:31.767975+00:00",
+      "commentary": null
+    }
+  ],
+  "playoff_teams": [
+    {
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "player1": "Catalystz",
+      "player1_twitch": "https://www.twitch.tv/Catalystz",
+      "player2": "LazyHelios",
+      "player2_twitch": "https://www.twitch.tv/LazyHelios",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "player1": "Nartock",
+      "player1_twitch": "https://www.twitch.tv/Nartock_",
+      "player2": "Shura",
+      "player2_twitch": "https://www.twitch.tv/ItsShura",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "player1": "Hoozher",
+      "player1_twitch": "https://www.twitch.tv/Hoozher",
+      "player2": "Psiphicode",
+      "player2_twitch": "https://www.twitch.tv/Psiphicode",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "player1": "Elymiss",
+      "player1_twitch": "https://www.twitch.tv/Elymis",
+      "player2": "Wander",
+      "player2_twitch": "https://www.twitch.tv/Wander652",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "player1": "Thomas",
+      "player1_twitch": "https://www.twitch.tv/Pluryl",
+      "player2": "Asym",
+      "player2_twitch": "https://www.twitch.tv/asymmmm",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "player1": "Rambler",
+      "player1_twitch": "https://www.twitch.tv/rambler_ing",
+      "player2": "Dino",
+      "player2_twitch": "https://www.twitch.tv/dinossb",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "7",
+      "team_name": "Élysée Treatyyy",
+      "player1": "Jeff",
+      "player1_twitch": "https://www.twitch.tv/jeffqed",
+      "player2": "Mixed",
+      "player2_twitch": "https://www.twitch.tv/themixed_",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "8",
+      "team_name": "Tiret du bas Fresh",
+      "player1": "Ironyeu",
+      "player1_twitch": "https://www.twitch.tv/Ironyeu",
+      "player2": "pirl_fresh",
+      "player2_twitch": "https://www.twitch.tv/pirl_fresh",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "9",
+      "team_name": "Brosimum Utile",
+      "player1": "Strump",
+      "player1_twitch": "https://www.twitch.tv/Strump1",
+      "player2": "Vakrash",
+      "player2_twitch": "https://www.twitch.tv/vakrash",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "10",
+      "team_name": "Incoherent Idiots",
+      "player1": "Lukas",
+      "player1_twitch": "https://www.twitch.tv/Lukas5407",
+      "player2": "Fun",
+      "player2_twitch": "https://www.twitch.tv/funion_",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "11",
+      "team_name": "DLTRRY",
+      "player1": "Vord_SR",
+      "player1_twitch": "https://www.twitch.tv/vord_sr",
+      "player2": "LetsPrepareToTry",
+      "player2_twitch": "https://www.twitch.tv/letspreparetotry",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "12",
+      "team_name": "Washed and Unc",
+      "player1": "BeardandtheHair",
+      "player1_twitch": "https://www.twitch.tv/BeardandtheHair",
+      "player2": "RattyRy",
+      "player2_twitch": "https://www.twitch.tv/RattyRy",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "13",
+      "team_name": "Nepheli Loux",
+      "player1": "Typin",
+      "player1_twitch": "https://www.twitch.tv/Typin__",
+      "player2": "Gordychou",
+      "player2_twitch": "https://www.twitch.tv/Gordychou",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "14",
+      "team_name": "Thus Spoke Messmerstra",
+      "player1": "KC",
+      "player1_twitch": "https://www.twitch.tv/kcbrazos",
+      "player2": "Jibbe",
+      "player2_twitch": "https://www.twitch.tv/jibbebot",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "15",
+      "team_name": "Australandzealandlanders",
+      "player1": "Azdomiel",
+      "player1_twitch": "https://www.twitch.tv/Azdomiel",
+      "player2": "Doitz",
+      "player2_twitch": "https://www.twitch.tv/base_serpent",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    },
+    {
+      "team_id": "16",
+      "team_name": "Deeply Lost Cats",
+      "player1": "Mewtwo2u",
+      "player1_twitch": "https://www.twitch.tv/MewTheMyth",
+      "player2": "Bekineko",
+      "player2_twitch": "https://www.twitch.tv/bekineko",
+      "created_at": "2026-05-21T08:10:45.979308+00:00"
+    }
+  ],
+  "completed_runs": [
+    {
+      "id": "299da8a7-a73e-4138-b480-86c2c1065b0b",
+      "completed_at": "2026-07-28T00:39:36.068775+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 8949674,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4200593,
+          "shards": 10,
+          "checks_done": 19
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4749081,
+          "shards": 7,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "GF-G1"
+    },
+    {
+      "id": "5a690f0c-d143-4418-bf91-147b64f91ad2",
+      "completed_at": "2026-07-30T01:01:53.583463+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 8888169,
+      "shards": 17,
+      "deaths": 4,
+      "checks_done": 32,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4257090,
+          "shards": 9,
+          "checks_done": 17
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4631079,
+          "shards": 8,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "GF-G2"
+    },
+    {
+      "id": "4776a01f-05e6-49e5-8fc1-2cddf9d7cdf5",
+      "completed_at": "2026-07-30T01:14:16.142325+00:00",
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "igt_ms": 9069413,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Elymiss",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4282211,
+          "shards": 9,
+          "checks_done": 17
+        },
+        {
+          "name": "Wander",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4787202,
+          "shards": 8,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "GF-G2"
+    },
+    {
+      "id": "4987b315-5fd9-4044-b3f7-ba009a9c058a",
+      "completed_at": "2026-07-23T19:07:10.037917+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 8963041,
+      "shards": 17,
+      "deaths": 12,
+      "checks_done": 30,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4407082,
+          "shards": 12,
+          "checks_done": 19
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 9,
+          "igt_ms": 4555959,
+          "shards": 7,
+          "checks_done": 14
+        }
+      ],
+      "series_id": "LF-1"
+    },
+    {
+      "id": "bb077927-d7d0-4b2e-85d6-feaefc7b943f",
+      "completed_at": "2026-07-23T18:58:42.344062+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 7870006,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 27,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 3649795,
+          "shards": 10,
+          "checks_done": 15
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 4220211,
+          "shards": 8,
+          "checks_done": 13
+        }
+      ],
+      "series_id": "LF-1"
+    },
+    {
+      "id": "2f1722bd-0d41-4ad1-a6b1-dbc12d9d8016",
+      "completed_at": "2026-06-01T22:35:43.920157+00:00",
+      "team_id": "16",
+      "team_name": "Deeply Lost Cats",
+      "igt_ms": 15974851,
+      "shards": 17,
+      "deaths": 43,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Mewtwo2u",
+          "slot": "1",
+          "deaths": 18,
+          "igt_ms": 7620923,
+          "shards": 8,
+          "checks_done": 20
+        },
+        {
+          "name": "Bekineko",
+          "slot": "2",
+          "deaths": 25,
+          "igt_ms": 8353928,
+          "shards": 10,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "LR1-1"
+    },
+    {
+      "id": "89777e08-35b4-44cf-a144-c988ecf904dd",
+      "completed_at": "2026-06-01T21:43:31.681425+00:00",
+      "team_id": "9",
+      "team_name": "Brosimum Utile",
+      "igt_ms": 10219708,
+      "shards": 17,
+      "deaths": 12,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Strump",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5357616,
+          "shards": 8,
+          "checks_done": 17
+        },
+        {
+          "name": "Vakrash",
+          "slot": "2",
+          "deaths": 6,
+          "igt_ms": 4862092,
+          "shards": 10,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "LR1-1"
+    },
+    {
+      "id": "25579a5e-3b94-4741-8285-1b6e1e3f0361",
+      "completed_at": "2026-05-26T21:52:32.313052+00:00",
+      "team_id": "12",
+      "team_name": "Washed and Unc",
+      "igt_ms": 11425302,
+      "shards": 17,
+      "deaths": 14,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "BeardandtheHair",
+          "slot": "1",
+          "deaths": 7,
+          "igt_ms": 5400573,
+          "shards": 8,
+          "checks_done": 16
+        },
+        {
+          "name": "RattyRy",
+          "slot": "2",
+          "deaths": 7,
+          "igt_ms": 6024729,
+          "shards": 10,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "LR1-2"
+    },
+    {
+      "id": "2372628d-8ac2-450d-bfc0-fbc0f27c419a",
+      "completed_at": "2026-05-26T21:51:20.173071+00:00",
+      "team_id": "13",
+      "team_name": "Nepheli Loux",
+      "igt_ms": 10874086,
+      "shards": 17,
+      "deaths": 16,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Typin",
+          "slot": "1",
+          "deaths": 7,
+          "igt_ms": 5421650,
+          "shards": 9,
+          "checks_done": 20
+        },
+        {
+          "name": "Gordychou",
+          "slot": "2",
+          "deaths": 9,
+          "igt_ms": 5452436,
+          "shards": 9,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR1-2"
+    },
+    {
+      "id": "485d610e-9fe1-4b58-81dc-be58876be380",
+      "completed_at": "2026-05-29T20:55:44.47471+00:00",
+      "team_id": "11",
+      "team_name": "DLTRRY",
+      "igt_ms": 15902445,
+      "shards": 17,
+      "deaths": 40,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Vord_SR",
+          "slot": "1",
+          "deaths": 10,
+          "igt_ms": 6470144,
+          "shards": 11,
+          "checks_done": 21
+        },
+        {
+          "name": "LetsPrepareToTry",
+          "slot": "2",
+          "deaths": 30,
+          "igt_ms": 9432301,
+          "shards": 7,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "LR1-3"
+    },
+    {
+      "id": "3a013128-43b3-4bb7-9635-342bb1a1c3a1",
+      "completed_at": "2026-05-29T21:06:59.626968+00:00",
+      "team_id": "14",
+      "team_name": "Thus Spoke Messmerstra",
+      "igt_ms": 16075209,
+      "shards": 17,
+      "deaths": 59,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "KC",
+          "slot": "1",
+          "deaths": 51,
+          "igt_ms": 9979467,
+          "shards": 7,
+          "checks_done": 18
+        },
+        {
+          "name": "Jibbe",
+          "slot": "2",
+          "deaths": 8,
+          "igt_ms": 5932095,
+          "shards": 11,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "LR1-3"
+    },
+    {
+      "id": "597b765f-6de4-4823-a01f-c15e6037e3d6",
+      "completed_at": "2026-06-07T08:32:55.884606+00:00",
+      "team_id": "10",
+      "team_name": "Incoherent Idiots",
+      "igt_ms": 9175359,
+      "shards": 17,
+      "deaths": 4,
+      "checks_done": 33,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Lukas",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4669582,
+          "shards": 9,
+          "checks_done": 18
+        },
+        {
+          "name": "Fun",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 4505777,
+          "shards": 9,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "LR1-4"
+    },
+    {
+      "id": "2e6bcad4-2dc9-4d0b-bf35-7b11a83ba52e",
+      "completed_at": "2026-06-07T08:48:33.968427+00:00",
+      "team_id": "15",
+      "team_name": "Australandzealandlanders",
+      "igt_ms": 11171088,
+      "shards": 17,
+      "deaths": 15,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Azdomiel",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5506765,
+          "shards": 7,
+          "checks_done": 17
+        },
+        {
+          "name": "Doitz",
+          "slot": "2",
+          "deaths": 9,
+          "igt_ms": 5664323,
+          "shards": 12,
+          "checks_done": 21
+        }
+      ],
+      "series_id": "LR1-4"
+    },
+    {
+      "id": "0a1318f2-a0c2-4df0-b041-d6bd0f76a67b",
+      "completed_at": "2026-06-03T22:20:18.632248+00:00",
+      "team_id": "7",
+      "team_name": "Élysée Treatyyy",
+      "igt_ms": 10560341,
+      "shards": 17,
+      "deaths": 8,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Jeff",
+          "slot": "1",
+          "deaths": 7,
+          "igt_ms": 5884136,
+          "shards": 8,
+          "checks_done": 19
+        },
+        {
+          "name": "Mixed",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4676205,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "LR2-1"
+    },
+    {
+      "id": "0469cfa2-0af6-4b9b-a01e-6f007b2b8737",
+      "completed_at": "2026-06-03T22:19:08.907549+00:00",
+      "team_id": "9",
+      "team_name": "Brosimum Utile",
+      "igt_ms": 10558154,
+      "shards": 17,
+      "deaths": 10,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Strump",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5793712,
+          "shards": 9,
+          "checks_done": 20
+        },
+        {
+          "name": "Vakrash",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4764442,
+          "shards": 9,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "LR2-1"
+    },
+    {
+      "id": "e8ebfc42-a89f-46be-9450-55cb35f7b968",
+      "completed_at": "2026-06-15T20:36:45.252605+00:00",
+      "team_id": "13",
+      "team_name": "Nepheli Loux",
+      "igt_ms": 9504643,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Typin",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4486056,
+          "shards": 11,
+          "checks_done": 21
+        },
+        {
+          "name": "Gordychou",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 5018587,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR2-2"
+    },
+    {
+      "id": "33d34832-f133-49b7-8fbc-7d9afa136d91",
+      "completed_at": "2026-06-15T20:20:00.845555+00:00",
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "igt_ms": 8035364,
+      "shards": 17,
+      "deaths": 2,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Rambler",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 3880705,
+          "shards": 10,
+          "checks_done": 19
+        },
+        {
+          "name": "Dino",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4154659,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR2-2"
+    },
+    {
+      "id": "local-backfill-lr2-3-dltrry",
+      "completed_at": null,
+      "team_id": "11",
+      "team_name": "DLTRRY",
+      "igt_ms": 12339000,
+      "shards": 19,
+      "deaths": 16,
+      "checks_done": 38,
+      "checks_total": 38,
+      "players": [
+        {
+          "name": "Vord_SR",
+          "slot": "1",
+          "deaths": 12,
+          "igt_ms": 6388000,
+          "shards": 12,
+          "checks_done": 22
+        },
+        {
+          "name": "LetsPrepareToTry",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 5951000,
+          "shards": 7,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "LR2-3"
+    },
+    {
+      "id": "local-backfill-lr2-3-hog-crankers",
+      "completed_at": null,
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "igt_ms": 10052000,
+      "shards": 18,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Thomas",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4932000,
+          "shards": 10,
+          "checks_done": 18
+        },
+        {
+          "name": "Asym",
+          "slot": "2",
+          "deaths": 6,
+          "igt_ms": 5120000,
+          "shards": 8,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "LR2-3"
+    },
+    {
+      "id": "787a17cd-cd36-476c-856a-0907f4a31694",
+      "completed_at": "2026-06-19T21:12:30.450954+00:00",
+      "team_id": "10",
+      "team_name": "Incoherent Idiots",
+      "igt_ms": 8860840,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Lukas",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4351225,
+          "shards": 9,
+          "checks_done": 15
+        },
+        {
+          "name": "Fun",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4509615,
+          "shards": 8,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "LR2-4"
+    },
+    {
+      "id": "6ef9f72b-6159-4f41-9197-0b115cb01637",
+      "completed_at": "2026-06-19T21:20:15.85574+00:00",
+      "team_id": "8",
+      "team_name": "Tiret du bas Fresh",
+      "igt_ms": 9773360,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Ironyeu",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4801964,
+          "shards": 7,
+          "checks_done": 19
+        },
+        {
+          "name": "pirl_fresh",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4971396,
+          "shards": 12,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR2-4"
+    },
+    {
+      "id": "1a7ade47-8d11-4876-a697-ad0f6477b19f",
+      "completed_at": "2026-06-27T22:29:48.246974+00:00",
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "igt_ms": 9202332,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Rambler",
+          "slot": "1",
+          "deaths": 5,
+          "igt_ms": 4506782,
+          "shards": 10,
+          "checks_done": 17
+        },
+        {
+          "name": "Dino",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4695550,
+          "shards": 7,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "LR3-1"
+    },
+    {
+      "id": "8e7306fa-eba3-4d7c-a037-d349c6e87301",
+      "completed_at": "2026-06-27T22:36:35.352671+00:00",
+      "team_id": "9",
+      "team_name": "Brosimum Utile",
+      "igt_ms": 9533425,
+      "shards": 17,
+      "deaths": 9,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Strump",
+          "slot": "1",
+          "deaths": 5,
+          "igt_ms": 4908721,
+          "shards": 7,
+          "checks_done": 16
+        },
+        {
+          "name": "Vakrash",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4624704,
+          "shards": 10,
+          "checks_done": 21
+        }
+      ],
+      "series_id": "LR3-1"
+    },
+    {
+      "id": "45481b82-90eb-4675-82aa-cf7ff8cc6b85",
+      "completed_at": "2026-06-28T19:12:24.784736+00:00",
+      "team_id": "10",
+      "team_name": "Incoherent Idiots",
+      "igt_ms": 9502123,
+      "shards": 17,
+      "deaths": 5,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Lukas",
+          "slot": "1",
+          "deaths": 0,
+          "igt_ms": 4731729,
+          "shards": 7,
+          "checks_done": 17
+        },
+        {
+          "name": "Fun",
+          "slot": "2",
+          "deaths": 5,
+          "igt_ms": 4770394,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "LR3-2"
+    },
+    {
+      "id": "5e826374-0a52-437b-ac3a-aae58078e257",
+      "completed_at": "2026-06-28T19:23:55.547342+00:00",
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "igt_ms": 8893792,
+      "shards": 17,
+      "deaths": 1,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Thomas",
+          "slot": "1",
+          "deaths": 0,
+          "igt_ms": 4280435,
+          "shards": 8,
+          "checks_done": 18
+        },
+        {
+          "name": "Asym",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4613357,
+          "shards": 9,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR3-2"
+    },
+    {
+      "id": "37cff0e4-1562-40da-a084-b237b9984d04",
+      "completed_at": "2026-07-14T16:36:40.595484+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 9398295,
+      "shards": 17,
+      "deaths": 1,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 0,
+          "igt_ms": 4571948,
+          "shards": 11,
+          "checks_done": 19
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4826347,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR4-1"
+    },
+    {
+      "id": "080f9d09-6cdf-41a5-934d-9a658c8e5887",
+      "completed_at": "2026-07-14T16:48:41.798607+00:00",
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "igt_ms": 10552495,
+      "shards": 17,
+      "deaths": 16,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Rambler",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4940491,
+          "shards": 10,
+          "checks_done": 18
+        },
+        {
+          "name": "Dino",
+          "slot": "2",
+          "deaths": 12,
+          "igt_ms": 5612004,
+          "shards": 8,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "LR4-1"
+    },
+    {
+      "id": "e428de7d-fb3b-451a-81e2-d847065ba85c",
+      "completed_at": "2026-07-10T04:17:21.011527+00:00",
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "igt_ms": 9261990,
+      "shards": 17,
+      "deaths": 9,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Hoozher",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4282282,
+          "shards": 9,
+          "checks_done": 20
+        },
+        {
+          "name": "Psiphicode",
+          "slot": "2",
+          "deaths": 6,
+          "igt_ms": 4979708,
+          "shards": 9,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR4-2"
+    },
+    {
+      "id": "4338dfa3-8afb-48db-9d6f-6bf7c777cc28",
+      "completed_at": "2026-07-10T04:19:35.48633+00:00",
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "igt_ms": 9663719,
+      "shards": 17,
+      "deaths": 9,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Thomas",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5154318,
+          "shards": 11,
+          "checks_done": 18
+        },
+        {
+          "name": "Asym",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 4509401,
+          "shards": 7,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "LR4-2"
+    },
+    {
+      "id": "3b16ea8a-8355-47e1-9b15-3d99436cee76",
+      "completed_at": "2026-07-19T17:32:53.797331+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 9071236,
+      "shards": 17,
+      "deaths": 4,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4466920,
+          "shards": 11,
+          "checks_done": 19
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4604316,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "LR5-1"
+    },
+    {
+      "id": "604c9258-61e4-46c9-926e-1620c22fdf03",
+      "completed_at": "2026-07-19T17:38:42.916864+00:00",
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "igt_ms": 9399480,
+      "shards": 17,
+      "deaths": 4,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Hoozher",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4390043,
+          "shards": 9,
+          "checks_done": 17
+        },
+        {
+          "name": "Psiphicode",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 5009437,
+          "shards": 9,
+          "checks_done": 21
+        }
+      ],
+      "series_id": "LR5-1"
+    },
+    {
+      "id": "55617c83-d7cc-4371-a0a9-053a4aae7f74",
+      "completed_at": "2026-06-01T19:37:34.495291+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 8552011,
+      "shards": 17,
+      "deaths": 5,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4313533,
+          "shards": 10,
+          "checks_done": 21
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4238478,
+          "shards": 9,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "QF-1"
+    },
+    {
+      "id": "c239113f-f5f7-4a43-af5f-4e261cb8bb77",
+      "completed_at": "2026-06-01T19:38:50.234334+00:00",
+      "team_id": "8",
+      "team_name": "Tiret du bas Fresh",
+      "igt_ms": 8910191,
+      "shards": 17,
+      "deaths": 0,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Ironyeu",
+          "slot": "1",
+          "deaths": 0,
+          "igt_ms": 4406399,
+          "shards": 12,
+          "checks_done": 19
+        },
+        {
+          "name": "pirl_fresh",
+          "slot": "2",
+          "deaths": 0,
+          "igt_ms": 4503792,
+          "shards": 7,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "QF-1"
+    },
+    {
+      "id": "250b6107-ba8a-45ab-96a3-15f2b2c48711",
+      "completed_at": "2026-06-06T17:36:50.695467+00:00",
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "igt_ms": 9056246,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Elymiss",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4978732,
+          "shards": 9,
+          "checks_done": 21
+        },
+        {
+          "name": "Wander",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4077514,
+          "shards": 9,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "QF-2"
+    },
+    {
+      "id": "fdab661d-003b-4731-b7cf-779145aa949e",
+      "completed_at": "2026-06-06T17:47:10.086362+00:00",
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "igt_ms": 9977599,
+      "shards": 17,
+      "deaths": 14,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Thomas",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5209779,
+          "shards": 9,
+          "checks_done": 18
+        },
+        {
+          "name": "Asym",
+          "slot": "2",
+          "deaths": 8,
+          "igt_ms": 4767820,
+          "shards": 9,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "QF-2"
+    },
+    {
+      "id": "3424a320-cbd6-4ae1-9b1e-667065f62363",
+      "completed_at": "2026-06-01T16:42:30.157798+00:00",
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "igt_ms": 9371428,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Hoozher",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4550007,
+          "shards": 11,
+          "checks_done": 22
+        },
+        {
+          "name": "Psiphicode",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4821421,
+          "shards": 8,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "QF-3"
+    },
+    {
+      "id": "bd3725c0-3e11-497b-9e63-232683ef3e67",
+      "completed_at": "2026-06-01T16:46:55.1536+00:00",
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "igt_ms": 9788708,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Rambler",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4563723,
+          "shards": 9,
+          "checks_done": 18
+        },
+        {
+          "name": "Dino",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 5224985,
+          "shards": 9,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "QF-3"
+    },
+    {
+      "id": "ad9e59dc-e666-42b5-befe-9b4d25a87cee",
+      "completed_at": "2026-05-30T10:37:34.127424+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 9476906,
+      "shards": 17,
+      "deaths": 8,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5012824,
+          "shards": 8,
+          "checks_done": 19
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4464082,
+          "shards": 9,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "QF-4"
+    },
+    {
+      "id": "1d662989-4401-4d32-8a18-8377ca4ce5ab",
+      "completed_at": "2026-05-30T10:37:46.720755+00:00",
+      "team_id": "7",
+      "team_name": "Élysée Treatyyy",
+      "igt_ms": 9884589,
+      "shards": 17,
+      "deaths": 13,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Jeff",
+          "slot": "1",
+          "deaths": 11,
+          "igt_ms": 5158925,
+          "shards": 9,
+          "checks_done": 17
+        },
+        {
+          "name": "Mixed",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4725664,
+          "shards": 8,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "QF-4"
+    },
+    {
+      "id": "dbccb77e-4208-4973-b913-3752f4c7b428",
+      "completed_at": "2026-05-27T16:25:19.762487+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 10476531,
+      "shards": 16,
+      "deaths": 2,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 0,
+          "igt_ms": 4030152,
+          "shards": 10,
+          "checks_done": 17
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 6446379,
+          "shards": 7,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "R16-1"
+    },
+    {
+      "id": "a651968d-623e-4916-9206-9787c978f6ad",
+      "completed_at": "2026-05-27T17:07:17.363762+00:00",
+      "team_id": "16",
+      "team_name": "Deeply Lost Cats",
+      "igt_ms": 13263737,
+      "shards": 17,
+      "deaths": 27,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Mewtwo2u",
+          "slot": "1",
+          "deaths": 12,
+          "igt_ms": 6393319,
+          "shards": 9,
+          "checks_done": 20
+        },
+        {
+          "name": "Bekineko",
+          "slot": "2",
+          "deaths": 15,
+          "igt_ms": 6870418,
+          "shards": 8,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "R16-1"
+    },
+    {
+      "id": "74d3c8a8-e272-4de2-bec4-263115643e1e",
+      "completed_at": "2026-05-22T21:29:43.673574+00:00",
+      "team_id": "8",
+      "team_name": "Tiret du bas Fresh",
+      "igt_ms": 9522747,
+      "shards": 17,
+      "deaths": 3,
+      "checks_done": 33,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Ironyeu",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4658868,
+          "shards": 8,
+          "checks_done": 16
+        },
+        {
+          "name": "pirl_fresh",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4863879,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "R16-2"
+    },
+    {
+      "id": "d5de5eec-51bb-4778-8e50-ba5ef90a8580",
+      "completed_at": "2026-05-22T21:45:02.587699+00:00",
+      "team_id": "9",
+      "team_name": "Brosimum Utile",
+      "igt_ms": 10550668,
+      "shards": 17,
+      "deaths": 13,
+      "checks_done": 33,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Strump",
+          "slot": "1",
+          "deaths": 5,
+          "igt_ms": 5076493,
+          "shards": 10,
+          "checks_done": 15
+        },
+        {
+          "name": "Vakrash",
+          "slot": "2",
+          "deaths": 8,
+          "igt_ms": 5474175,
+          "shards": 8,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "R16-2"
+    },
+    {
+      "id": "0dc57f85-3f11-4907-afb8-67ea1b309308",
+      "completed_at": "2026-05-23T21:56:54.195093+00:00",
+      "team_id": "12",
+      "team_name": "Washed and Unc",
+      "igt_ms": 10407247,
+      "shards": 17,
+      "deaths": 5,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "BeardandtheHair",
+          "slot": "1",
+          "deaths": 5,
+          "igt_ms": 5304589,
+          "shards": 8,
+          "checks_done": 18
+        },
+        {
+          "name": "RattyRy",
+          "slot": "2",
+          "deaths": 0,
+          "igt_ms": 5102658,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "R16-3"
+    },
+    {
+      "id": "4c167dcb-ac48-44dc-a056-ee16e4b6c7f5",
+      "completed_at": "2026-05-23T21:50:12.620408+00:00",
+      "team_id": "5",
+      "team_name": "Hog Crankers",
+      "igt_ms": 9390294,
+      "shards": 17,
+      "deaths": 8,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Thomas",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4539274,
+          "shards": 8,
+          "checks_done": 20
+        },
+        {
+          "name": "Asym",
+          "slot": "2",
+          "deaths": 7,
+          "igt_ms": 4851020,
+          "shards": 10,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "R16-3"
+    },
+    {
+      "id": "f3975415-9f55-44e2-84be-04232f3bfb14",
+      "completed_at": "2026-05-23T17:10:06.312805+00:00",
+      "team_id": "13",
+      "team_name": "Nepheli Loux",
+      "igt_ms": 11540297,
+      "shards": 17,
+      "deaths": 11,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Typin",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5496111,
+          "shards": 10,
+          "checks_done": 20
+        },
+        {
+          "name": "Gordychou",
+          "slot": "2",
+          "deaths": 5,
+          "igt_ms": 6044186,
+          "shards": 8,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "R16-4"
+    },
+    {
+      "id": "0e933cae-c2ef-46d7-bbdc-d0a89fad6e96",
+      "completed_at": "2026-05-23T16:51:53.567278+00:00",
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "igt_ms": 9508748,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Elymiss",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 4837434,
+          "shards": 8,
+          "checks_done": 19
+        },
+        {
+          "name": "Wander",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 4671314,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "R16-4"
+    },
+    {
+      "id": "6d246137-0906-4dfa-ae2c-8d9a63c839c0",
+      "completed_at": "2026-05-24T18:41:51.050492+00:00",
+      "team_id": "14",
+      "team_name": "Thus Spoke Messmerstra",
+      "igt_ms": 16075209,
+      "shards": 17,
+      "deaths": 12,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "KC",
+          "slot": "1",
+          "deaths": 5,
+          "igt_ms": 8160277,
+          "shards": 10,
+          "checks_done": 19
+        },
+        {
+          "name": "Jibbe",
+          "slot": "2",
+          "deaths": 7,
+          "igt_ms": 7914932,
+          "shards": 8,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "R16-5"
+    },
+    {
+      "id": "dc320d4b-707e-4b26-abcb-f653d729fca7",
+      "completed_at": "2026-05-24T18:38:04.167458+00:00",
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "igt_ms": 9688493,
+      "shards": 17,
+      "deaths": 5,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Hoozher",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4536016,
+          "shards": 9,
+          "checks_done": 20
+        },
+        {
+          "name": "Psiphicode",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 5152477,
+          "shards": 9,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "R16-5"
+    },
+    {
+      "id": "225fd59c-6953-43d1-81fb-ea33cf68b0d4",
+      "completed_at": "2026-05-24T15:38:02.576484+00:00",
+      "team_id": "11",
+      "team_name": "DLTRRY",
+      "igt_ms": 10507136,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Vord_SR",
+          "slot": "1",
+          "deaths": 4,
+          "igt_ms": 5316511,
+          "shards": 10,
+          "checks_done": 21
+        },
+        {
+          "name": "LetsPrepareToTry",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 5190625,
+          "shards": 7,
+          "checks_done": 17
+        }
+      ],
+      "series_id": "R16-6"
+    },
+    {
+      "id": "62d1ea1f-c52d-45dd-9e44-e217cc500f66",
+      "completed_at": "2026-05-24T15:30:47.295934+00:00",
+      "team_id": "6",
+      "team_name": "Brain & Brawl",
+      "igt_ms": 9299856,
+      "shards": 17,
+      "deaths": 3,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Rambler",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 4376536,
+          "shards": 9,
+          "checks_done": 18
+        },
+        {
+          "name": "Dino",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4923320,
+          "shards": 8,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "R16-6"
+    },
+    {
+      "id": "929d46f8-733b-4d36-994d-d040c8107b40",
+      "completed_at": "2026-05-27T19:44:05.137844+00:00",
+      "team_id": "10",
+      "team_name": "Incoherent Idiots",
+      "igt_ms": 10562974,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Lukas",
+          "slot": "1",
+          "deaths": 2,
+          "igt_ms": 5421780,
+          "shards": 12,
+          "checks_done": 17
+        },
+        {
+          "name": "Fun",
+          "slot": "2",
+          "deaths": 5,
+          "igt_ms": 5141194,
+          "shards": 8,
+          "checks_done": 22
+        }
+      ],
+      "series_id": "R16-7"
+    },
+    {
+      "id": "35985f8b-73a8-4fb4-b012-cd4bd64b9d58",
+      "completed_at": "2026-05-27T19:43:27.415702+00:00",
+      "team_id": "7",
+      "team_name": "Élysée Treatyyy",
+      "igt_ms": 10548738,
+      "shards": 17,
+      "deaths": 20,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Jeff",
+          "slot": "1",
+          "deaths": 10,
+          "igt_ms": 5156743,
+          "shards": 12,
+          "checks_done": 19
+        },
+        {
+          "name": "Mixed",
+          "slot": "2",
+          "deaths": 10,
+          "igt_ms": 5391995,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "R16-7"
+    },
+    {
+      "id": "38d54707-db1a-4e2e-854d-562734689421",
+      "completed_at": "2026-05-24T09:22:19.568961+00:00",
+      "team_id": "15",
+      "team_name": "Australandzealandlanders",
+      "igt_ms": 13747346,
+      "shards": 17,
+      "deaths": 27,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Azdomiel",
+          "slot": "1",
+          "deaths": 21,
+          "igt_ms": 7720637,
+          "shards": 7,
+          "checks_done": 16
+        },
+        {
+          "name": "Doitz",
+          "slot": "2",
+          "deaths": 6,
+          "igt_ms": 6026709,
+          "shards": 11,
+          "checks_done": 21
+        }
+      ],
+      "series_id": "R16-8"
+    },
+    {
+      "id": "6b7dc85a-e4d2-496b-b3d4-ea4bbbf9bb00",
+      "completed_at": "2026-05-24T08:25:30.421474+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 8356390,
+      "shards": 17,
+      "deaths": 8,
+      "checks_done": 28,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 3865117,
+          "shards": 11,
+          "checks_done": 18
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 2,
+          "igt_ms": 4491273,
+          "shards": 7,
+          "checks_done": 13
+        }
+      ],
+      "series_id": "R16-8"
+    },
+    {
+      "id": "98a18ff8-6688-43b4-b823-08221d0ee49b",
+      "completed_at": "2026-06-28T17:50:36.648283+00:00",
+      "team_id": "1",
+      "team_name": "Lazy Cats",
+      "igt_ms": 9782895,
+      "shards": 17,
+      "deaths": 10,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Catalystz",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5043606,
+          "shards": 12,
+          "checks_done": 19
+        },
+        {
+          "name": "LazyHelios",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4739289,
+          "shards": 7,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "SF-1"
+    },
+    {
+      "id": "a15d800f-df9e-4b49-a4cc-170155fa9247",
+      "completed_at": "2026-06-28T17:44:53.101255+00:00",
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "igt_ms": 9264887,
+      "shards": 17,
+      "deaths": 5,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Elymiss",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4769672,
+          "shards": 8,
+          "checks_done": 21
+        },
+        {
+          "name": "Wander",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4495215,
+          "shards": 10,
+          "checks_done": 16
+        }
+      ],
+      "series_id": "SF-1"
+    },
+    {
+      "id": "1b867880-0aa4-4b89-86cc-37a7bbd40606",
+      "completed_at": "2026-06-15T22:36:09.026367+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 9285775,
+      "shards": 17,
+      "deaths": 6,
+      "checks_done": 33,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 3,
+          "igt_ms": 4176973,
+          "shards": 7,
+          "checks_done": 16
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 3,
+          "igt_ms": 5108802,
+          "shards": 12,
+          "checks_done": 20
+        }
+      ],
+      "series_id": "SF-2"
+    },
+    {
+      "id": "9864f494-6192-4a78-935f-bba1151b5be8",
+      "completed_at": "2026-06-15T22:46:07.614943+00:00",
+      "team_id": "3",
+      "team_name": "Disappointment Randomizer Legion",
+      "igt_ms": 9899050,
+      "shards": 17,
+      "deaths": 10,
+      "checks_done": 35,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Hoozher",
+          "slot": "1",
+          "deaths": 6,
+          "igt_ms": 5292115,
+          "shards": 11,
+          "checks_done": 19
+        },
+        {
+          "name": "Psiphicode",
+          "slot": "2",
+          "deaths": 4,
+          "igt_ms": 4606935,
+          "shards": 8,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "SF-2"
+    },
+    {
+      "id": "7e665ec1-a0ce-4bf1-85e4-e6ffb7c9fca0",
+      "completed_at": "2026-07-19T23:57:02.465725+00:00",
+      "team_id": "2",
+      "team_name": "Team Innovation",
+      "igt_ms": 9004344,
+      "shards": 17,
+      "deaths": 2,
+      "checks_done": 33,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Nartock",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4302461,
+          "shards": 8,
+          "checks_done": 17
+        },
+        {
+          "name": "Shura",
+          "slot": "2",
+          "deaths": 1,
+          "igt_ms": 4701883,
+          "shards": 10,
+          "checks_done": 18
+        }
+      ],
+      "series_id": "WF-1"
+    },
+    {
+      "id": "e02e2606-4e14-40fe-a353-92f4d41bfb1d",
+      "completed_at": "2026-07-19T23:56:28.556607+00:00",
+      "team_id": "4",
+      "team_name": "Music Makers",
+      "igt_ms": 8990550,
+      "shards": 17,
+      "deaths": 7,
+      "checks_done": 34,
+      "checks_total": 35,
+      "players": [
+        {
+          "name": "Elymiss",
+          "slot": "1",
+          "deaths": 1,
+          "igt_ms": 4224141,
+          "shards": 9,
+          "checks_done": 18
+        },
+        {
+          "name": "Wander",
+          "slot": "2",
+          "deaths": 6,
+          "igt_ms": 4766409,
+          "shards": 10,
+          "checks_done": 19
+        }
+      ],
+      "series_id": "WF-1"
+    }
+  ]
+}
